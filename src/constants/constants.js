@@ -36,7 +36,7 @@ export const projects = [
   {
     title: 'Real-time Emotion Detection',
     description: "Designed a CNN model for emotion recognition, integrated with OpenCV for real-time detection from live camera. Achieved 68% accuracy in real-time emotion prediction, showcasing enhanced precision.",
-    image: '/images/cnn.png',
+    image: '/Meet_Oza_Portfolio/images/cnn.png',
     tags: ['Python', 'TensorFlow', 'Keras', 'OpenCV'],
     visit: 'https://github.com/MEETOZA123/Human-Emotion-Detection',
     id: 0,
@@ -44,7 +44,7 @@ export const projects = [
   {
     title: 'Walmart-Sales-Time-Series-Analysis-Forecasting',
     description: "Presents a comprehensive end-to-end machine learning pipeline for time series analysis and forecasting of Walmart store sales. Explored the dataset, visualize trends and seasonality, performed advanced feature engineering, and built predictive models using Facebook Prophet and XGBoost.",
-    image: '/images/Gemini_Generated_Image_i6taabi6taabi6ta.png',
+    image: '/Meet_Oza_Portfolio/images/Gemini_Generated_Image_i6taabi6taabi6ta.png',
     tags: ['Python', 'Prophet', 'XGBoost', 'Time Series Analysis'],
     visit: 'https://github.com/MEETOZA123/Walmart-Sales-Time-Series-Analysis-Forecasting',
     id: 1,

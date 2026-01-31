@@ -23,8 +23,8 @@ const Hero = (props) => (
         <SectionText>
           Hi, I’m Meet Oza, a Software Engineer at Incedo Inc., with a Bachelor’s in Information Technology from IET DAVV. I build scalable backend and data platforms using Java, AWS, and PySpark.
         </SectionText>
-        <Button onClick={() => window.open('/resume.pdf', '_blank')}>Resume</Button>
-      </LeftSection>
+
+
     </Section>
   </>
 );
