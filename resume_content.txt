@@ -1,0 +1,72 @@
+
+
+MEET OZA
+8103585553|meetozaofficial@gmail.com|LinkedIn/Meet|GitHub|Kaggle|LeetCode|GeeksForGeeks
+Education
+Institute of Engineering and Technology, DAVV2020 – 2024
+Bachelor of Engineering in Information TechnologyCGPA-8.0
+Experience
+Software Engineer - Incedo Inc.January 2025 – Present
+Skills: Spring Boot, Java, SQL, AWS, PySpark, Python, Langchain
+•
+Architected the backend for “Learning Path,” enabling creation and reuse of intelligent workflow blueprints, and
+optimized data models, APIs, and performance—cutting information-lookup time by30%.
+•
+Pioneered a performance analytics dashboard providing real-time visibility into onboarding progress and skill
+acquisition for managers and mentors, enhancing overall output by15%.
+•
+Engineered a high-performance, scalable data migration framework using PySpark and AWS Glue to seamlessly
+migrate150M+row datasets from Oracle to PostgreSQL, improving processing efficiency by8%.
+•
+Migrated static BD mappings to a normalized reference table and refactored30+SQL scripts to dynamically fetch
+BD identifiers, enhancing data integrity and improving maintainability across ETL pipelines by80%.
+•
+Orchestrated a framework utilizing Lambda and Glue to transform financial logs into optimized parquet, integrating
+Athena analytics to streamline data access and accelerate feature extraction cycles by20%for ML workflows.
+•
+Spearheaded a GenAI metadata service using RAG and ingestion lineage to automate schema documentation and
+impact mapping, reducing manual data-discovery time by40%.
+•
+Developed ETL pipelines to consolidate acquired retirement plan data into the enterprise warehouse, expanding
+Star Schema by mapping business logic into Fact and Dimension tables, supporting10%of corporate revenue.
+Software Engineer Intern - Clappia No-Code PlatformOctober 2024 – December 2024
+Skills: AWS, React.js, Javascript, ESLint
+•
+Integrated AI model selectison logic, allowing for seamless switching between models based on user subscription
+levels, resulting in a18%reduction in server load during peak usage.
+Machine Learning Research Intern - IET DAVVSeptember 2023 – May 2024
+Skills: Python, Deep Learning, Keras, Machine Learning
+•
+Pioneered advanced model optimization strategies, integrating data augmentation, transfer learning from
+cutting-edge pre-trained architectures, and ensemble learning to enhance predictive robustness.
+•
+Delivered a7%improvement in classification accuracy, exceeding results reported in10+peer-reviewed studies.
+Projects
+Real-time Emotion Detection|Python, TensorFlow, Keras, OpenCV, Deep Learning— GitHub
+•
+Designed a CNN model for emotion recognition, integrated with OpenCV for real-time detection from live camera.
+•
+Achieved68%accuracy in real-time emotion prediction, up from 65%, showcasing the model’s enhanced precision.
+Publications
+Plant Disease Identification Using Deep Learning and Transfer Learning— Link
+•
+Published inProcedia Computer ScienceVol.  260, pp.  341–352 (RTIP2R-2024).
+•
+Benchmarked models against 10+ national and international research papers, surpassing6papers with accuracy
+improvements of up to11%through rigorous comparative analysis.
+Achievements
+•
+Kaggle Notebook Expert:  Ranked1597, Top5%globally.
+•
+Leetcode Rating1834, Top7%globally.
+Technical Skills
+•
+Programming Languages:C++, Python, Java, JavaScript, SQL.
+•
+Frameworks & Libraries:React.js, Spring Boot, TensorFlow, Keras, LangChain.
+•
+Data & ML Ecosystem:Machine Learning, Deep Learning, PySpark, Snowflake, Embeddings, Vector Search.
+•
+Tools & Platforms:Tableau, Power BI, Postman, Git, AWS.
+•
+Core Concepts:OOP, DSA, DBMS, Computer Networks, SDLC, Microservice Architecture, RESTful APIs.
